@@ -1,0 +1,2 @@
+rootProject.name = "SpyCameraDetection"
+include ':app'
